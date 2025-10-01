@@ -1,0 +1,3 @@
+name,type,start,end,strand,color,notes
+Reporter,CDS,150,360,+,#f2994a,Reporter cassette
+Resistance,gene,420,980,+,#2f80ed,Selectable marker
