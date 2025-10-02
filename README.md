@@ -59,8 +59,6 @@ sequence_analyzer/
 
 ## Licensing & Third-Party Dependencies
 
-- Source code is MIT licensed (see [LICENSE](LICENSE)).
-- Runtime dependencies are MIT/BSD licensed (React, @tanstack libraries, idb, jszip, lucide-react, etc.).
 - WebAssembly module is generated from the local `wasm-src/pairwise_score.wat` source using `wabt` and bundled in `public/wasm`.
 
 ## Safety Notes
